@@ -1,0 +1,4 @@
+# Github Beispiel für repository
+# https://github.com/Steffen76227/github-beispiel.git
+Lokal erzeugt
+

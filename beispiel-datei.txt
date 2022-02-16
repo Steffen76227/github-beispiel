@@ -1,1 +1,2 @@
 Diese Datei dient lediglich als Beispiel
+und wurde in GitHub erzeugt
